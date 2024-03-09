@@ -8,7 +8,6 @@ The files available in this preview are:
 - [PWA Product-view](./sfcc-product-badges/app/components/product-view/index.jsx)
 - [PWA Product-list](./sfcc-product-badges/app/pages/product-list/index.jsx)
 - [PWA Theme index](./sfcc-product-badges/app/theme/index.js)
-
 - [SFRA Product badges](./sfra-cartridges/cartridges/product_badges/cartridge/client/default/js/productBadges.js)
 - [SFRA Product label](./sfra-cartridges/cartridges/product_badges/cartridge/client/default/scss/productLabelTile.scss)
 - [SFRA Tile](./sfra-cartridges/cartridges/product_badges/cartridge/controllers/Tile.js)
