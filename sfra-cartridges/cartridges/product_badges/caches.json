@@ -1,0 +1,9 @@
+{
+    "caches": [
+      {
+        "id": "product_badges",
+        "expireAfterSeconds": 3600
+      }
+    ]
+  }
+  

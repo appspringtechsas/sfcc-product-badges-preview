@@ -1,0 +1,8 @@
+<ismodule template="/components/content/contentAsset"
+    name="contentasset"
+    attribute="aid"
+/>
+<ismodule template="/productLabel/components/productLabel"
+    name="productlabels"
+    attribute="labels"
+/>

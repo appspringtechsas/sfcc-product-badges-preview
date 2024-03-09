@@ -1,0 +1,21 @@
+.product-label-container {
+    position: absolute;
+}
+
+.over-product-image-top-right {
+    .d-flex {
+        justify-content: flex-end;
+    }
+}
+
+.over-product-image-bottom-left {
+    bottom: 0;    
+}
+
+.over-product-image-bottom-right {
+    bottom: 0;
+
+    .d-flex {
+        justify-content: flex-end;
+    }
+}
