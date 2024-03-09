@@ -1,5 +1,24 @@
 # Salesforce Commerce Cloud (SFCC) Product Badges for SFRA
 
+**Note:** This repository is a preview of the SFCC Product Badges. The purpose of this repository is to allow future customers to see the file structure of the package and to access the README and see how the package works and what features provides. It is important to mention that Product Badges for PWA Kit uses template extensibility so this preview is only meant to show the file structure and the files that were modified when building the package. File structure and files preview for Product Badges for SFRA is also available. The complete package contains the full structure of both PWA Kit and SFRA code.
+
+The files available in this preview are:
+
+- [PWA Product-tile](./sfcc-product-badges/app/components/product-tile/index.jsx)
+- [PWA Product-view](./sfcc-product-badges/app/components/product-view/index.jsx)
+- [PWA Product-list](./sfcc-product-badges/app/pages/product-list/index.jsx)
+- [PWA Theme index](./sfcc-product-badges/app/theme/index.js)
+
+- [SFRA Product badges](./sfra-cartridges/cartridges/product_badges/cartridge/client/default/js/productBadges.js)
+- [SFRA Product label](./sfra-cartridges/cartridges/product_badges/cartridge/client/default/scss/productLabelTile.scss)
+- [SFRA Tile](./sfra-cartridges/cartridges/product_badges/cartridge/controllers/Tile.js)
+- [SFRA Decorator](./sfra-cartridges/cartridges/product_badges/cartridge/models/product/decorators/index.js)
+- [SFRA Color Formatter](./sfra-cartridges/cartridges/product_badges/cartridge/scripts/util/productLabelColorFormatter.js)
+- [SFRA Modules Template](./sfra-cartridges/cartridges/product_badges/cartridge/templates/default/components/modules.isml)
+- [SFRA Product Details Template](./sfra-cartridges/cartridges/product_badges/cartridge/templates/default/product/productDetails.isml)
+- [SFRA Cache](./sfra-cartridges/cartridges/product_badges/caches.json)
+- [SFRA Hooks](./sfra-cartridges/cartridges/product_badges/hooks.json)
+
 Product Badges for Salesforce Commerce Cloud (SFCC) is a comprehensive package that adds essential functionalities for e-commerce. This plugin allows you to establish, manage and assign labels to products, which is particularly useful for businesses that want to add relevant and very specific information to the offered products.
 
 Moreover, this package can seamlessly integrate with Salesforce Commerce Cloud architectures like Storefront Reference Architecture (SFRA) or PWA Kit | Composable Storefront. This flexibility ensures a customizable implementation, adapting to the specific needs of each e-commerce business.
